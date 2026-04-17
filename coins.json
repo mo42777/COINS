@@ -2,8 +2,8 @@
   "coins": [
     {
       "id": 1,
-      "name": "My First Coin",
-      "model": "models/coin1.glb",
+      "name": "Euro Coin",
+      "model": "models/euro.glb",
       "description": "Add your coin description here",
       "location": "Where you found it",
       "date_found": "2026-04-17",
@@ -13,8 +13,5 @@
         "material": "Bronze",
         "weight_g": 5.5,
         "condition": "Good",
-        "era": "Unknown"
-      }
-    }
-  ]
-}
+        "era](#)
+
