@@ -1,0 +1,13 @@
+{
+  "coins": [
+    {
+      "name": "Example Coin",
+      "symbol": "EXC",
+      "market_cap": 0,
+      "price": 0.0,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "date_added": "2026-04-17 12:41:13"
+    }
+  ]
+}
