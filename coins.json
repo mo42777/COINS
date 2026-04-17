@@ -1,13 +1,20 @@
 {
   "coins": [
     {
-      "name": "Example Coin",
-      "symbol": "EXC",
-      "market_cap": 0,
-      "price": 0.0,
-      "circulating_supply": 0,
-      "total_supply": 0,
-      "date_added": "2026-04-17 12:41:13"
+      "id": 1,
+      "name": "My First Coin",
+      "model": "models/coin1.glb",
+      "description": "Add your coin description here",
+      "location": "Where you found it",
+      "date_found": "2026-04-17",
+      "story": "Add the story of how you found it and what happened",
+      "stats": {
+        "diameter_mm": 25,
+        "material": "Bronze",
+        "weight_g": 5.5,
+        "condition": "Good",
+        "era": "Unknown"
+      }
     }
   ]
 }
